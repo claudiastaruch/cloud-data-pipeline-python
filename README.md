@@ -20,5 +20,8 @@ The project was deployed and executed within a cloud environment to demonstrate 
 Cloud-specific configuration files are excluded for security.
 
 ## Files
-- `main.py` – Core data ingestion and analysis logic
-- `analysis.py` – Data processing and analytics
+- `data_cleaning.py` – Core data ingestion and cleaning
+- `data_transforming.py` – Data processing and transformation
+- `static_plots.py` - Visual exploration and plots
+- `predict_model.py` -Generating predictions from trained models
+- `train_model.py` - Model training for analytical predictions
